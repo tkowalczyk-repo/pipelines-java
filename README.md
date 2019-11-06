@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tkowalczyk0572/TestProject/_apis/build/status/tkowalczyk-repo.pipelines-java?branchName=master)](https://dev.azure.com/tkowalczyk0572/TestProject/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
